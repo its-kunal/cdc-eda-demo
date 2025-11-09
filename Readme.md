@@ -143,6 +143,29 @@ print(consumer.topics())
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Kafka UI Dashboard](screenshots/dashboard.png)
+
+### Kafka Topics
+![Kafka Topics](screenshots/topics.png)
+
+### Kafka Brokers
+![Kafka Brokers](screenshots/brokers.png)
+
+### Kafka Connectors
+![Kafka Connectors](screenshots/connectors.png)
+
+### Consumer Groups
+![Consumer Groups](screenshots/consumers.png)
+
+### Producer Output
+![Producer Output](screenshots/producer.png)
+
+### Consumer Output
+![Consumer Output](screenshots/consumer.png)
+
 ## Contributing
 
 Contributions are welcome! 🤗
